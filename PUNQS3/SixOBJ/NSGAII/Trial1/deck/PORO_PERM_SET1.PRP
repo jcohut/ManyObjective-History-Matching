@@ -1,0 +1,54 @@
+PORO
+2660*0.0
+/
+PERMX
+2660*0.0
+/
+PERMZ
+2660*0.0
+/
+
+EQUALREG
+PORO {$pbackground*0.1+0.05} 1 F/
+PORO {$pa1*0.15+0.15} 2 F/
+PORO {$pb1*0.15+0.15} 3 F/
+PORO {$pc1*0.15+0.15} 4 F/
+PORO {$p2*0.1+0.05} 5 F/
+PORO {$pa3*0.15+0.15} 6 F/
+PORO {$pb3*0.15+0.15} 7 F/
+PORO {$pc3*0.15+0.15} 8 F/
+PORO {$p4*0.1+0.05} 9 F/
+PORO {$pa5*0.15+0.15} 10 F/
+PORO {$pb5*0.15+0.15} 11 F/
+PORO {$pc5*0.15+0.15} 12 F/
+/
+
+EQUALREG
+PERMX {$Multipbackground*Math.pow(10,(0.77+9.03*($pbackground*0.1+0.05)))} 1 F/
+PERMX {$Multipa1*Math.pow(10,(0.77+9.03*($pa1*0.15+0.15)))} 2 F/
+PERMX {$Multipb1*Math.pow(10,(0.77+9.03*($pb1*0.15+0.15)))} 3 F/
+PERMX {$Multipc1*Math.pow(10,(0.77+9.03*($pc1*0.15+0.15)))} 4 F/
+PERMX {$Multip2*Math.pow(10,(0.77+9.03*($p2*0.1+0.05)))} 5 F/
+PERMX {$Multipa3*Math.pow(10,(0.77+9.03*($pa3*0.15+0.15)))} 6 F/
+PERMX {$Multipb3*Math.pow(10,(0.77+9.03*($pb3*0.15+0.15)))} 7 F/
+PERMX {$Multipc3*Math.pow(10,(0.77+9.03*($pc3*0.15+0.15)))} 8 F/
+PERMX {$Multip4*Math.pow(10,(0.77+9.03*($p4*0.1+0.05)))} 9 F/
+PERMX {$Multipa5*Math.pow(10,(0.77+9.03*($pa5*0.15+0.15)))} 10 F/
+PERMX {$Multipb5*Math.pow(10,(0.77+9.03*($pb5*0.15+0.15)))} 11 F/
+PERMX {$Multipc5*Math.pow(10,(0.77+9.03*($pc5*0.15+0.15)))} 12 F/
+/
+
+EQUALREG
+PERMZ {3.124+0.306*(Math.pow(10,(0.77+9.03*($pbackground*0.1+0.05))))} 1 F/
+PERMZ {3.124+0.306*(Math.pow(10,(0.77+9.03*($pa1*0.15+0.15))))} 2 F/
+PERMZ {3.124+0.306*(Math.pow(10,(0.77+9.03*($pb1*0.15+0.15))))} 3 F/
+PERMZ {3.124+0.306*(Math.pow(10,(0.77+9.03*($pc1*0.15+0.15))))} 4 F/
+PERMZ {3.124+0.306*(Math.pow(10,(0.77+9.03*($p2*0.1+0.05))))} 5 F/
+PERMZ {3.124+0.306*(Math.pow(10,(0.77+9.03*($pa3*0.15+0.15))))} 6 F/
+PERMZ {3.124+0.306*(Math.pow(10,(0.77+9.03*($pb3*0.15+0.15))))} 7 F/
+PERMZ {3.124+0.306*(Math.pow(10,(0.77+9.03*($pc3*0.15+0.15))))} 8 F/
+PERMZ {3.124+0.306*(Math.pow(10,(0.77+9.03*($p4*0.1+0.05))))} 9 F/
+PERMZ {3.124+0.306*(Math.pow(10,(0.77+9.03*($pa5*0.15+0.15))))} 10 F/
+PERMZ {3.124+0.306*(Math.pow(10,(0.77+9.03*($pb5*0.15+0.15))))} 11 F/
+PERMZ {3.124+0.306*(Math.pow(10,(0.77+9.03*($pc5*0.15+0.15))))} 12 F/
+/
