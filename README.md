@@ -5,4 +5,4 @@ Codes on reproducing results in the paper [here] (https://ieeexplore.ieee.org/do
 Two reservoir models were studied:
 
 1. PUNQ-S3
-2. Zagadka
+2. Zagadka (made available based on request)
