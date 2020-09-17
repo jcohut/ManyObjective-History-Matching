@@ -12,7 +12,7 @@ Two reservoir models were studied:
 Three stochastic algorithms were compared:
 
 1. [MOPSO]
-2. [NSGA-II]
+2. [NSGA-II](../Optimizer/nsga2)
 3. [RVEA]
 
 
