@@ -27,6 +27,6 @@ Three stochastic algorithms were applied:
 [paper]: https://ieeexplore.ieee.org/document/7850215
 [PUNQS3]: https://www.imperial.ac.uk/earth-science/research/research-groups/perm/standard-models/eclipse-dataset/
 [Zagadka]: https://ieeexplore.ieee.org/document/7850215
-[MOPSO]: 
-[NSGA-II]:
-[RVEA]:
+[MOPSO]: https://github.com/jcohut/ManyObjective-History-Matching/tree/master/Optimizer/mopsocd
+[NSGA-II]: https://github.com/jcohut/ManyObjective-History-Matching/tree/master/Optimizer/nsga2
+[RVEA]: https://github.com/jcohut/ManyObjective-History-Matching/tree/master/Optimizer/rvea
