@@ -4,9 +4,11 @@ Codes on reproducing results in the this [paper].
 
 Two reservoir models were studied:
 
-1. PUNQ-S3
-2. Zagadka (made available based on request)
+1. [PUNQS3] Based on a field in North Sea with 6 producer wells
+2. [Zagadka] Based on a field in Russia with more than 100 producer wells.
 
 
 
 [paper]: https://ieeexplore.ieee.org/document/7850215
+[PUNQS3]: https://www.imperial.ac.uk/earth-science/research/research-groups/perm/standard-models/eclipse-dataset/
+[Zagadka]: https://ieeexplore.ieee.org/document/7850215
