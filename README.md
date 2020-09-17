@@ -21,5 +21,5 @@ Three stochastic algorithms were compared:
 [PUNQS3]: https://www.imperial.ac.uk/earth-science/research/research-groups/perm/standard-models/eclipse-dataset/
 [Zagadka]: https://ieeexplore.ieee.org/document/7850215
 [MOPSO]: 
-[NSGA-II]: ../Optimizer/nsga2
+[NSGA-II]
 [RVEA]: 
