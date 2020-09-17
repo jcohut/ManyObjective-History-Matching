@@ -1,6 +1,7 @@
 # ManyObjective-History-Matching
 
-Codes on reproducing results in the this [paper].
+Codes on reproducing results in this [paper].
+
 
 Two reservoir models were studied:
 
@@ -8,7 +9,17 @@ Two reservoir models were studied:
 2. [Zagadka] Based on a field in Russia with more than 100 producer wells.
 
 
+Three stochastic algorithms were compared:
+
+1. [MOPSO]
+2. [NSGA-II]
+3. [RVEA]
+
+
 
 [paper]: https://ieeexplore.ieee.org/document/7850215
 [PUNQS3]: https://www.imperial.ac.uk/earth-science/research/research-groups/perm/standard-models/eclipse-dataset/
 [Zagadka]: https://ieeexplore.ieee.org/document/7850215
+[MOPSO]: 
+[NSGA-II]: ../blob/master/Optimizer/nsga2
+[RVEA]: 
