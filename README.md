@@ -15,7 +15,18 @@ Two reservoir models were studied:
 
 ![](https://github.com/jcohut/ManyObjective-History-Matching/blob/master/images/zagadka.PNG "PUNQS3 Reservoir Model")
 
+
+
+Three stochastic algorithms were applied:
+
+1. [MOPSO]
+2. [NSGA-II]
+3. [RVEA]
+
+
 [paper]: https://ieeexplore.ieee.org/document/7850215
 [PUNQS3]: https://www.imperial.ac.uk/earth-science/research/research-groups/perm/standard-models/eclipse-dataset/
 [Zagadka]: https://ieeexplore.ieee.org/document/7850215
-
+[MOPSO]: 
+[NSGA-II]:
+[RVEA]:
