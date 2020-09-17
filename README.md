@@ -20,6 +20,4 @@ Three stochastic algorithms were compared:
 [paper]: https://ieeexplore.ieee.org/document/7850215
 [PUNQS3]: https://www.imperial.ac.uk/earth-science/research/research-groups/perm/standard-models/eclipse-dataset/
 [Zagadka]: https://ieeexplore.ieee.org/document/7850215
-[MOPSO]: 
-[NSGA-II]
-[RVEA]: 
+
